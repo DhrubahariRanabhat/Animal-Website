@@ -1,0 +1,72 @@
+    .top-bar {
+        height: 50px;
+        background: #009A3E;
+    }
+    
+    .animals {
+        background: rgb(0, 226, 120);
+    }
+    
+    .menu {
+        height: 110px;
+        background: rgb(0, 226, 120);
+        background: linear-gradient(180deg, rgba(0, 226, 120, 1) 0%, rgba(0, 154, 62, 1) 100%);
+        font-size: 30px;
+    }
+    
+    .menuItem a {
+        color: white;
+    }
+    
+    .menuItem a:hover {
+        color: #fc0;
+        text-decoration: none;
+    }
+    
+    body {
+        font-family: 'GeoBrandBlack', 'CenturyGothic', AppleGothic, Gill Sans, Gill Sans MT, sans-serif;
+    }
+    
+    p {
+        font-size: 15px;
+        font-weight: bold;
+    }
+    
+    font footer a:hover {
+        text-decoration: none;
+    }
+    
+    .section-padding {
+        padding: 60px 0;
+    }
+    
+    .bottom {
+        background-color: #0a1c2e;
+    }
+    
+    .bottom .copyright {
+        color: #e5e5e5;
+        font-weight: 600;
+    }
+    
+    .copyright a {
+        color: #f2ff49;
+        margin-left: 3px;
+        padding-right: 3px;
+    }
+    
+    .bottom p {
+        margin-bottom: 0;
+        line-height: 50px;
+        font-size: 16px;
+        font-weight: 400;
+    }
+    
+    .copyright p span {
+        color: #d1caca;
+    }
+    
+    .bottom .copyright p,
+    .bottom .copyright a:hover {
+        color: #6c6d83;
+    }
